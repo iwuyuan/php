@@ -1,2 +1,2 @@
 # php
-My study with PHP.
+My study with PHP
